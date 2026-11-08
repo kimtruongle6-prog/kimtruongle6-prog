@@ -2,7 +2,7 @@
 
 **Research Identity:** K. Le  
 **Affiliation:** Independent Research  
-**Research Focus:** Reverse Engineering, Malware Analysis
+**Research Focus:** Reverse Engineering, Malware Analysis, Security Research Engineering
 
 ---
 
