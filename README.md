@@ -2,7 +2,7 @@
 
 **Research Identity:** K. Le  
 **Affiliation:** Independent Research  
-**Research Focus:** Reverse Engineering, Malware Analysis, Threat Intelligence & Security Architecture
+**Research Focus:** Reverse Engineering, Malware Analysis
 
 ---
 
@@ -20,14 +20,6 @@
   - [edge-cloud-malware-analysis](https://github.com/kimtruongle6-prog/edge-cloud-malware-analysis)
   - [threat-intelligence-pipeline](https://github.com/kimtruongle6-prog/threat-intelligence-pipeline)
 
-### 03 — Threat Intelligence & Forensics | Campaign Investigations
-
-- **Focus:** Memory forensics, indicator extraction, malware triage, threat hunting, and technical investigation of malware campaigns.
-- **Featured Projects:**
-  - [Earth-Lamia](https://github.com/kimtruongle6-prog/Earth-Lamia)
-  - [Vidar Stealer Campaign Analysis](https://github.com/kimtruongle6-prog/Vidar-Stealer-Campaign-Analysis-)
-  - [Malware SQL Intelligence Lab](https://github.com/kimtruongle6-prog/Malware-SQL-Intelligence-Lab)
-
 ---
 
 ## 🛠️ Technical Environment
@@ -39,7 +31,7 @@
 - Volatility 3
 
 **Programming & Automation**
-- Python — Threat intelligence and data processing
+- Python — Security automation and data processing
 - C/C++ — Binary analysis and compiler behavior
 - Rust — Systems programming and binary research
 - Go — Systems programming and comparative analysis
@@ -57,9 +49,7 @@ A verification-first approach emphasizing reproducible experiments, evidence-bas
 | [RE-01](https://github.com/kimtruongle6-prog/RE-01) | Comparative Binary Analysis |
 | [Edge-to-Cloud Malware Analysis](https://github.com/kimtruongle6-prog/edge-cloud-malware-analysis) | Security Architecture |
 | [Threat Intelligence Pipeline](https://github.com/kimtruongle6-prog/threat-intelligence-pipeline) | Research Engineering |
-| [Earth-Lamia](https://github.com/kimtruongle6-prog/Earth-Lamia) | Memory Forensics |
-| [Vidar Campaign Analysis](https://github.com/kimtruongle6-prog/Vidar-Stealer-Campaign-Analysis-) | Malware Investigation |
-| [Malware SQL Intelligence Lab](https://github.com/kimtruongle6-prog/Malware-SQL-Intelligence-Lab) | Threat Intelligence Data Engineering |
+
 
 ---
 
